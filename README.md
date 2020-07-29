@@ -1,5 +1,3 @@
-### Hi there 👋
-
 My names <b>Harry</b> and I'm a <b>UI Developer</b> at <b>Thrive</b> in <b>Nottingham<b>. 
 
 I also make <b>YouTube Videos</b> on [Curious Byte](https://www.youtube.com/channel/UChgP4qLeMhkcJUFMO5S05mQ).
